@@ -1,4 +1,4 @@
-# Controlled Access Network (CAN) Packets Dataset for Intrusion Detection with Multi-Class Labels
+# Severity Aware Controlled Access Network (SCAN) Packets Dataset for Intrusion Detection with Multi-Class Labels
 
 ## Dataset Availability and Description
 
